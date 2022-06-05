@@ -5,13 +5,13 @@
 ## Contact Information:
 
 **Location:** Engels, Russia
----
+
 **Phone:** +000 00 000-00-00
----
+
 **E-mail:** tech.denisov@gmail.com
----
+
 **Telegram:** @tech_denisov
----
+
 **[LinkedIn](https://www.linkedin.com/in/aleksei-denisov-283051168/)**
 
 ## About me
@@ -31,7 +31,7 @@ I am second-year student at the university. To get better as a programmer , I en
 ## Education
 
 **University:** State Technical University Of Saratov, Software Engineering (2021 - until now)
----
+
 **Courses:** [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## Languages
