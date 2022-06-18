@@ -66,5 +66,7 @@ ul {
     margin-bottom: 0px;
 }
 .rss {
-    background: url(/assets/svg/rs_school.svg) right no-repeat;
+    background: url(./assets/svg/rs_school.svg) right no-repeat;
+    display: block;
+    height: 50px;
 }
